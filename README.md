@@ -6,7 +6,7 @@
 ---
 
 ### 🌟 About Me
-- 🎓 **Master's in Software Engineering** at Concordia University, Montreal (Graduating Dec 2024)
+- 🎓 **Master's in Software Engineering** at Concordia University, Canada (Graduating Dec 2024)
 - 💻 Passionate about building scalable, user-centric applications using the latest technologies.
 - 🚀 Exploring cloud architectures and serverless applications to push the boundaries of what's possible.
 - 🤝 Team player, lifelong learner, and always up for a challenge!
