@@ -101,6 +101,8 @@ A serverless app to share travel experiences with photos and secure access.
 - **Master of Engineering in Software Engineering** – Concordia University, Montreal (2023 - Dec 2024)
 - **Bachelor of Engineering in Computer Science** – Velammal Institute of Technology, Chennai
 
+---
+
 ### 🏆 Certifications
 - **Azure Fundamentals** - Microsoft
 - **AWS Cloud Essentials** - Amazon Web Services
