@@ -81,7 +81,7 @@
 ### 📈 Featured Projects
 Check out some of my projects that showcase my full stack and cloud skills:
 
-#### 🌐 [Work Management Application System](https://work-management-app.onrender.com/)
+#### 🌐 [Work Management Application System](https://github.com/karthikdurai-kd/Work-Management-Application)
 A full-featured MERN stack app for task and project management.  
 - 🔔 **Real-Time Notifications** via Socket.io
 - 🔐 **Role-Based Access Control** to streamline setup and permissions
