@@ -13,6 +13,14 @@
 
 ---
 
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikdurai-kd&theme=tokyonight" alt="Karthik's GitHub streak" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikdurai-kd&layout=compact&theme=tokyonight" alt="Top Languages" width="50%"/>
+</div>
+
+---
+
 ### 🧰 My Tech Stack
 
 #### 💻 Languages
