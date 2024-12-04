@@ -105,8 +105,8 @@ Check out some of my projects that showcase my full stack and cloud skills:
 ---
 
 ### 🎓 Education
-- **Master of Engineering in Software Engineering** – Concordia University, Montreal (2023 - Dec 2024)
-- **Bachelor of Engineering in Computer Science** – Velammal Institute of Technology, Chennai
+- **Master of Engineering in Software Engineering** – Concordia University, Montreal, Canada (Jan 2023 - Dec 2024)
+- **Bachelor of Engineering in Computer Science** – Velammal Institute of Technology, Chennai, India
 
 ---
 
