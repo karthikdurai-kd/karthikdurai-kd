@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Karthik Durai! 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://www.google.com/search?q=Karthik+Durai">Karthik Durai! 👋</a></h1>
 <p align="center">
   <i>Master’s Student in Software Engineering | Full Stack Developer | Cloud Enthusiast</i>
 </p>
