@@ -14,10 +14,15 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikdurai-kd&theme=tokyonight" alt="Karthik's GitHub streak" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikdurai-kd&layout=compact&theme=tokyonight" alt="Top Languages" width="50%"/>
-</div>
+### Stats
+
+[![Karthik's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=shafiqimtiaz&theme=radical&border=7F3FBF&background=0D1117)](https://github.com/karthikdurai-kd)
+[![Karthik's Github Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=karthikdurai-kd&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/karthikdurai-kd)
+[![Karthik's Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=shafiqimtiaz&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/karthikdurai-kd)
+
+[![Karthik's GitHub Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthikdurai-kd&theme=radical)](https://github.com/karthikdurai-kd)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=karthikdurai-kd&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karthikdurai-kd&theme=radical&utcOffset=8)
 
 ---
 
