@@ -16,13 +16,17 @@
 ### 📊 GitHub Stats
 ### Stats
 
-[![Karthik's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=karthikdurai-kd&theme=radical&border=7F3FBF&background=0D1117)](https://github.com/karthikdurai-kd)
-[![Karthik's Github Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=karthikdurai-kd&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-[![Karthik's Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=shafiqimtiaz&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/karthikdurai-kd)
+[![Karthik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthikdurai-kd&theme=radical&border=7F3FBF&background=0D1117)](https://github.com/karthikdurai-kd)
+
+[![Karthik's GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=karthikdurai-kd&show_icons=true&count_private=true&include_all_commits=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/karthikdurai-kd)
+
+[![Karthik's Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=karthikdurai-kd&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/karthikdurai-kd)
 
 [![Karthik's GitHub Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthikdurai-kd&theme=radical)](https://github.com/karthikdurai-kd)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=karthikdurai-kd&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karthikdurai-kd&theme=radical&utcOffset=8)
+
 
 ---
 
@@ -48,8 +52,9 @@
 ### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;&nbsp;
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) &nbsp;&nbsp;
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) &nbsp;&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) &nbsp;&nbsp;
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white) &nbsp;&nbsp;
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;&nbsp;
