@@ -24,9 +24,7 @@
 
 [![Karthik's GitHub Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthikdurai-kd&theme=radical)](https://github.com/karthikdurai-kd)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=karthikdurai-kd&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karthikdurai-kd&theme=radical&utcOffset=8)
-
 
 ---
 
