@@ -18,7 +18,7 @@
 
 [![Karthik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthikdurai-kd&theme=radical&border=7F3FBF&background=0D1117)](https://github.com/karthikdurai-kd)
 
-[![Karthik's GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=karthikdurai-kd&show_icons=true&count_private=true&include_all_commits=false&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&custom_title=Commits%20in%202025)](https://github.com/karthikdurai-kd)
+![Karthik's GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=karthikdurai-kd&show_icons=true&count_private=true&include_all_commits=false&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&custom_title=Commits%20in%202025&random=12345)
 
 [![Karthik's Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=karthikdurai-kd&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/karthikdurai-kd)
 
