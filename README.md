@@ -1,14 +1,15 @@
 <h1 align="center">Hi there, I'm Karthik Durai! 👋</a></h1>
 <p align="center">
-  <i>Master’s Student in Software Engineering | Full Stack Developer | Cloud Enthusiast</i>
+  <i>Full Stack Developer | Cloud Enthusiast | Master’s Student in Software Engineering | </i>
 </p>
 
 ---
 
 ### 🌟 About Me
+- 👨‍💻 Software Engineer with a strong foundation in full-stack development.
 - 🎓 **Master's in Software Engineering** at Concordia University, Canada
 - 💻 Passionate about building scalable, user-centric applications using the latest technologies.
-- 🚀 Exploring cloud architectures and serverless applications to push the boundaries of what's possible.
+- 🚀 **Exploring cloud architectures and serverless applications** to push the boundaries of what's possible.
 - 🤝 Team player, lifelong learner, and always up for a challenge!
 
 ---
