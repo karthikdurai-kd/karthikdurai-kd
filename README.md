@@ -123,7 +123,7 @@ Check out some of my projects that showcase my full stack and cloud skills:
 
 ### 📫 Let's Connect!
 <p align="left">
-  <a href="mailto:duraikarthik6@gmail.com"><img src="https://img.shields.io/badge/Email-duraikarthik6%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:replykarthik98@gmail.com"><img src="https://img.shields.io/badge/Email-replykarthik98@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/karthikdurai98"><img src="https://img.shields.io/badge/LinkedIn-Karthik%20Durai-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/karthikdurai-kd"><img src="https://img.shields.io/badge/GitHub-karthikdurai--kd-black?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
