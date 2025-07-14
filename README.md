@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Karthik Durai! 👋</a></h1>
 <p align="center">
-  <i>Full Stack Developer | Cloud Enthusiast | Master’s Student in Software Engineering </i>
+  <i>Full Stack Developer | Cloud Enthusiast </i>
 </p>
 
 ---
